@@ -3,9 +3,9 @@ output:
   html_document: 
     keep_md: yes
 ---
+  
 # Reproducible Research: Peer Assessment 1
-#### Daniel Brown
-#### 16 August 2020
+##### Daniel Brown: 16 August 2020
 
 
 

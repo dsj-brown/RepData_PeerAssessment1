@@ -1,10 +1,6 @@
----
-title: "Reproducible Research: Peer Assessment 1"
-output: html_document:
-keep_md: true
-author: Daniel Brown
-date: 16 August 2020
----
+# Reproducible Research: Peer Assessment 1
+### Daniel Brown
+### 16 August 2020
 
 ```{r, include = FALSE}
 knitr::opts_chunk$set(message = FALSE, warning = FALSE)

@@ -1,11 +1,11 @@
 ---
-title: "Reproducible Research: Peer Assessment 1"
 output: 
-  html_document:
-    keep_md: true
-author: Daniel Brown
-date: 16 August 2020
+  html_document: 
+    keep_md: yes
 ---
+# Reproducible Research: Peer Assessment 1
+#### Daniel Brown
+#### 16 August 2020
 
 
 
